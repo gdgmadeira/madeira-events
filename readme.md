@@ -1,19 +1,9 @@
-# Ionic React Example
+_WORK IN PROGRESS_
 
-This directory is a brief example of an [Ionic React](https://ionicframework.com/docs/react/overview) app that can be deployed with Vercel and zero configuration
+# Madeira Events
 
-## Deploy Your Own
+Would you want to know all the events that will happen in Madeira? Okay, sure! 
 
-Deploy your own Ionic React project with Vercel.
+# Contact us
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/ionic-react&template=ionic-react)
-
-_Live Example: https://ionic-react.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started with Ionic React deployed with Vercel, you can use the [Ionic CLI](https://ionicframework.com/docs/cli) to initialize the project:
-
-```shell
-$ npx ionic start [project-name] conference --type react && cd [project-name]
-```
+If you have any questions, just [get in touch](https://gdgmadeira.xyz/contact) with us.
